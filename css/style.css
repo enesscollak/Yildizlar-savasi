@@ -1,0 +1,17 @@
+html,body{
+   background: #000000;
+   margin:0px;
+    
+}
+p{
+    color: #fff;
+    text-align: center; 
+}
+
+canvas{
+    border:1px solid #FFF;
+    display: block;
+    background: #fff;
+    margin:0 auto;
+    margin-top: 20px !important;
+}
